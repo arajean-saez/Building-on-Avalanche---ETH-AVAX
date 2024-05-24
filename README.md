@@ -1,4 +1,4 @@
-# Building-on-Avalanche---ETH-AVAX
+# Module 4: Building on Avalanche ETH-AVAX
 
 # Description 
 Are you up for a challenge that will put your skills to the test? Degen Gaming 🎮, a renowned game studio, has approached you to create a unique token that can reward players and take their game to the next level. You have been tasked with creating a token that can be earned by players in their game and then exchanged for rewards in their in-game store. A smart step towards increasing player loyalty and retention 🧠
